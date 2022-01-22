@@ -1,6 +1,6 @@
 import RealmSwift
 
-public struct RealmDynamic {
+public struct RealmUmbrella {
     public private(set) var text = "Hello, World!"
 
     public init() {

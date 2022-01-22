@@ -1,11 +1,11 @@
 import XCTest
-@testable import RealmDynamic
+@testable import RealmUmbrella
 
-final class RealmDynamicTests: XCTestCase {
+final class RealmUmbrellaTests: XCTestCase {
     func testExample() throws {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(RealmDynamic().text, "Hello, World!")
+        XCTAssertEqual(RealmUmbrella().text, "Hello, World!")
     }
 }
